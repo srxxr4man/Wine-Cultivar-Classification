@@ -254,8 +254,8 @@ jupyter notebook
 
 **4. Run the notebooks in order**
 
-- `01_wine_data_exploration.ipynb`
-- `02_wine_model_evaluation.ipynb`
+- `Getting_Started_to_Wine_Recognition_Dataset.ipynb`
+- `Model_Evaluation_Wine_Recognition_Dataset.ipynb`
 
 Run the cells sequentially to understand the complete Machine Learning workflow.
 
